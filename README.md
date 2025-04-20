@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
                                               
                                            
 ### About Me
-- 🔭 I’m an Data Engineer .
+- 🔭 I’m a Data Engineer .
 - 🌱 I’m interested in Data Engineering, ML and AI.
 - 👯 I’m looking to collaborate on projects.
 - :hearts: I love to Code and SLEEP.
