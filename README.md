@@ -12,10 +12,10 @@ Here are some ideas to get you started:-->
                                               
                                            
 ### About Me
-- 🔭 I’m an undergraduate student pursuing CSE.
-- 🌱 I’m interested in Web technologies and AI.
+- 🔭 I’m an Data Engineer .
+- 🌱 I’m interested in Data Engineering, ML and AI.
 - 👯 I’m looking to collaborate on projects.
-- :hearts: I love to Code and Sing.
+- :hearts: I love to Code and SLEEP.
                                               
 
 ### Tools
